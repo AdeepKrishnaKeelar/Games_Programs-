@@ -4,10 +4,9 @@ import java.util.Scanner;
 
 public class GuessNum {
    public static void main(String[] args) {
-       //MINI PROJECT
        @SuppressWarnings("resource")
 	Scanner sc = new Scanner(System.in);
-       int myNumber = (int)(Math.random()*100);
+       int myNumber = (int)(Math.random()*100); //random number which user has to guess
        int userNumber = 0;
        System.out.println("Welcome to the Guess the Number Game!");
        System.out.println("You have unlimited chances to guess the correct number");
