@@ -6,5 +6,5 @@ A corrected version of Cricket,still may have some issues will check it out soon
 =======
 Adeep and Pradyoth here!
 1st Game is a Number GUessing Game in C, added bonus version in Java!
-2nd Game Cricket, a buggy version (Beta) is present, try it at your own risk, the corrected version will be out soon!
+2nd Game Cricket, a slightly improved version of the game now present, will try to improve it again..!
 >>>>>>> a5caf2ff50ffe25fd439d0940caef152148de0de
