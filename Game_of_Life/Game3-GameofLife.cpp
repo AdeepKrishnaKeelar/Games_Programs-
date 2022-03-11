@@ -9,6 +9,11 @@ can the player survive the ultra randomness life offers..?
 After all, life is random generated! */
 
 /* ----------------------------------------------------- */
+/* Any links or extra header files reference be here */
+
+/* ----------------------------------------------------- */
+
+/* ----------------------------------------------------- */
 /* The header files and future global variables be here */
     #include<iostream> /* IO stream */
     #include<math.h> /* math header */
